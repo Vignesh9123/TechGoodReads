@@ -2,5 +2,8 @@
 
 ## LLM / AI / ML 
  - [Word Embeddings](https://jalammar.github.io/illustrated-word2vec/)
+
+## Web
+ - [WebRTC](https://www.youtube.com/watch?v=FExZvpVvYxA)
  
 
