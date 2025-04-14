@@ -1,6 +1,7 @@
-# Collection of Good Papers / Articles / Blogs / Videos that I have/am reading to Learn / Explore Tech Topics
+# Collection of Good Resources that I  to Learn / Explore Tech Topics
 
 ## LLM / AI / ML 
- - [Word Embeddings](https://jalammar.github.io/illustrated-word2vec/)
+ - [Word Embeddings / Vector Embeddings](https://jalammar.github.io/illustrated-word2vec/)
  
-
+## Backend
+ - [Caching in Backend](https://youtu.be/estH64OkwxU?si=FnUpUIjaQvopCsXi)
