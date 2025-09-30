@@ -11,3 +11,4 @@
 
 ## System Design
  - [Notification Design](https://www.youtube.com/watch?v=e8cX9pQdu7Y)
+ - [The Accidental CTO By Subhash Choudhary (Dukaan Co-Founder)](https://github.com/subhashchy/The-Accidental-CTO)
